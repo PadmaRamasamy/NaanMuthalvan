@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TESTING WORKS</name>
+   <tag></tag>
+   <elementGuidId>559eef9a-5e37-471b-8949-8a9953a300ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navbar']/ul/li[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;TESTING WORKS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>72f457a3-d507-4869-bc3e-b28ea8f5cf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ctdt.annauniv.edu/ctdtfunctions/testing.php</value>
+      <webElementGuid>9a00aedd-6c19-4d32-8fe2-39bfeee9d0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TESTING WORKS</value>
+      <webElementGuid>0470a8a2-0729-4571-807c-c6cefa86cf04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/ul[1]/li[@class=&quot;dropdown&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>679554f1-00cf-4fa5-8e94-21b23fd58933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar']/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>1c8d5700-b811-4c70-b50b-8e9f93ca7a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TESTING WORKS')]</value>
+      <webElementGuid>0bdddb6e-4de1-4ed5-9045-5707274fac5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONSULTANCY'])[1]/following::a[1]</value>
+      <webElementGuid>f5e2ed08-2282-4dd1-8e2b-9c27171c057c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FUNCTIONS'])[1]/following::a[2]</value>
+      <webElementGuid>35ec610a-f35d-4e7d-a190-618e6f7fc872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESEARCH PROJECTS'])[1]/preceding::a[1]</value>
+      <webElementGuid>dd64d2ef-7b5a-4d11-ac4e-a58315035d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRAINING PROGRAMME'])[1]/preceding::a[2]</value>
+      <webElementGuid>3681f1f5-f0c1-43d1-ad7a-71d9ab3e714b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TESTING WORKS']/parent::*</value>
+      <webElementGuid>27a2b29f-db82-4dcd-9fff-8fb67662b270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ctdt.annauniv.edu/ctdtfunctions/testing.php')]</value>
+      <webElementGuid>35505d1e-b0e4-4e6c-954e-105a242d9837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>e65ebdbd-790e-477f-b581-24e9736c1c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ctdt.annauniv.edu/ctdtfunctions/testing.php' and (text() = 'TESTING WORKS' or . = 'TESTING WORKS')]</value>
+      <webElementGuid>0bdabb22-fffd-4c2a-92e4-e833fcd93782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

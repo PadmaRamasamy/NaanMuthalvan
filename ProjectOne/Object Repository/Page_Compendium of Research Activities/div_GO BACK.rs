@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GO BACK</name>
+   <tag></tag>
+   <elementGuidId>99448e61-2faa-4158-854b-86a232e7ce92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='canvas']/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;>>> GO BACK &lt;&lt;&lt;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a36deea-3e57-4210-bfce-62c49166880a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>>>> GO BACK &lt;&lt;&lt;</value>
+      <webElementGuid>9ee1ce0f-2d3f-416c-96e7-fc07a8969997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;canvas&quot;)/a[1]/div[1]</value>
+      <webElementGuid>42c0fa27-d704-475a-aaf4-44e1d1b065cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='canvas']/a/div</value>
+      <webElementGuid>0a04959a-265b-40c4-a66c-13b6455b1cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='>>> GO BACK &lt;&lt;&lt;']/parent::*</value>
+      <webElementGuid>c1fc0335-cf81-4125-a54b-8d10f19dd91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>3a8ac8a9-c6a5-44fb-b116-ae0095013c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '>>> GO BACK &lt;&lt;&lt;' or . = '>>> GO BACK &lt;&lt;&lt;')]</value>
+      <webElementGuid>92486950-2de9-4e41-a362-d9e9a5162968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

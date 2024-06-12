@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Computer Science and Engineering</name>
+   <tag></tag>
+   <elementGuidId>e5b1d135-9983-46f5-b989-ef4e6f9d41d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNavDropdown']/ul/li[4]/ul/li/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Computer Science and Engineering&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>694a9944-c6ed-4908-ab88-562ce7bd2b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.auegov.ac.in/Department/cse</value>
+      <webElementGuid>ba5ac674-6d60-406a-b0b5-8dccebefd439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2fc1baab-890f-49c0-976c-9f2bbcc86671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Science and Engineering</value>
+      <webElementGuid>25d084ac-58cf-4a84-a148-e64cd0d95c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarNavDropdown&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;has-mega-menu&quot;]/ul[@class=&quot;mega-menu&quot;]/li[1]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>4c15294e-e86f-4866-a17c-00db9db23adf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNavDropdown']/ul/li[4]/ul/li/ul/li[3]/a</value>
+      <webElementGuid>2517b100-61a8-464b-983d-d18e36c1beeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Computer Science and Engineering')]</value>
+      <webElementGuid>d51331a4-8522-49df-aa69-b59105456724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemistry'])[1]/following::a[1]</value>
+      <webElementGuid>7ed02c55-b292-4681-b761-b37b49261537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Civil Engineering'])[1]/following::a[2]</value>
+      <webElementGuid>c7114465-6f35-4ee1-9350-8bae2705e63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrical and Electronics Engineering'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f07c6c5-8f42-437b-bc9a-d56542b899c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electronics and Communication Engineering'])[1]/preceding::a[2]</value>
+      <webElementGuid>02368f56-4143-4071-9bfd-8b3924b83ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Computer Science and Engineering']/parent::*</value>
+      <webElementGuid>18d95342-e7d3-4e81-a7b3-063ce2959313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.auegov.ac.in/Department/cse')]</value>
+      <webElementGuid>73ef61f2-cb0c-49c0-a039-007e7114d6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/ul/li[3]/a</value>
+      <webElementGuid>31697e63-aa19-4b42-8774-f0627ab08056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.auegov.ac.in/Department/cse' and (text() = 'Computer Science and Engineering' or . = 'Computer Science and Engineering')]</value>
+      <webElementGuid>2e8ad297-35b2-4ed5-9c6f-9f9ddd30ae65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Link with phone number</name>
+   <tag></tag>
+   <elementGuidId>0e4ff800-972e-45a2-b586-a67d5f70daa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[3]/div/div/div/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._akav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Link with phone number&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b935cb0f-2577-41c8-b414-6c2d2071677c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34cd2ad5-b53d-44cc-b5fa-c9d8838287d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>dd5375d8-899b-4eca-b8ed-d961faa9730c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_akav</value>
+      <webElementGuid>2ec3d809-438d-48bb-bd6b-e828c7117e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link with phone number</value>
+      <webElementGuid>1e58ffd5-3288-46c3-80b9-4d3a567426c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;_aiwn _aiwl app-wrapper-web font-fix os-win _ap4q&quot;]/div[@class=&quot;landing-wrapper&quot;]/div[@class=&quot;landing-window&quot;]/div[@class=&quot;landing-main&quot;]/div[@class=&quot;_akk2 _ak94&quot;]/div[@class=&quot;_aj-6 _ak95&quot;]/div[@class=&quot;_amrn&quot;]/div[@class=&quot;_aj-e&quot;]/span[@class=&quot;_akav&quot;]</value>
+      <webElementGuid>0cb393aa-d56e-4ace-b94f-a94a3cb8669c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[3]/div/div/div/div[3]/div/span</value>
+      <webElementGuid>5696fb8d-7145-4f55-a55a-201acbd8eb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Point your phone at this screen to capture the QR code'])[1]/following::span[3]</value>
+      <webElementGuid>7b1b3bbb-7025-475a-a736-228f9f47f0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link a device'])[1]/following::span[4]</value>
+      <webElementGuid>38f19bed-27bc-403f-b94c-4d277198a063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial'])[1]/preceding::span[1]</value>
+      <webElementGuid>6ac87060-1510-4a3d-a8f9-80f0931dd034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need help to get started?'])[1]/preceding::span[1]</value>
+      <webElementGuid>cdb1f4bc-4f41-4061-86ff-5430cac8e864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link with phone number']/parent::*</value>
+      <webElementGuid>bddcca9b-7f25-40f0-93d4-a480010babc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>8f6fc02f-776c-450c-a69b-6d27248ba59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Link with phone number' or . = 'Link with phone number')]</value>
+      <webElementGuid>349ddef6-e603-468b-b624-a95efabc02dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

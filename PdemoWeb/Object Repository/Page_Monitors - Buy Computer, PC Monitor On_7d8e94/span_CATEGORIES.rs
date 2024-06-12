@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CATEGORIES</name>
+   <tag></tag>
+   <elementGuidId>c506f633-4fe9-4961-85dd-53033ae9ff7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div/div/div/div/div/section/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.WCyB2K > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;CATEGORIES&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0e3d6fa-a3aa-406c-b5e6-1944721781d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CATEGORIES</value>
+      <webElementGuid>aeee2845-287f-460d-b9bb-d468c4a1c90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp col-2-12&quot;]/div[@class=&quot;DOjaWF gdgoEp col-12-12&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;_0BvurA&quot;]/div[@class=&quot;GSeM5C&quot;]/section[@class=&quot;Iu4qXa&quot;]/div[@class=&quot;WCyB2K&quot;]/span[1]</value>
+      <webElementGuid>c7d048b0-c0b3-41f5-bb37-0bbb04317ad7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div/div/div/div/div/section/div/span</value>
+      <webElementGuid>21e743f9-416a-4785-97d7-501037b206ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acer'])[1]/following::span[2]</value>
+      <webElementGuid>c81aa212-e8f1-45c8-96c9-db1bd5cea078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers'])[1]/preceding::span[2]</value>
+      <webElementGuid>cf1f2b2e-abab-4db8-8f45-07a82cc6e636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Components'])[1]/preceding::span[3]</value>
+      <webElementGuid>9d350c7e-9e3a-487c-94d5-1b399e49a7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CATEGORIES']/parent::*</value>
+      <webElementGuid>3c396633-96b0-446e-9931-a247cce77d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/span</value>
+      <webElementGuid>a3c934f3-f754-40e6-8e28-1722aa3b1099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CATEGORIES' or . = 'CATEGORIES')]</value>
+      <webElementGuid>205bd381-bec6-499d-8ac4-77d7f892b9c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_CATEGORIESComputersComputer Compone_598fff</name>
+   <tag></tag>
+   <elementGuidId>70270530-1a23-4663-a48c-b9a5a5d168bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div/div/div/div/div/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.Iu4qXa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;CATEGORIESComputersComputer ComponentsMonitors&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>c6f14427-1d4e-44fc-bdb5-e3613170493b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Iu4qXa</value>
+      <webElementGuid>6a89d73b-f9eb-425f-bd36-dfc427a15ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CATEGORIESComputersComputer ComponentsMonitors</value>
+      <webElementGuid>9238cf88-9d6f-46f8-a2ce-fb79ac68adc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp col-2-12&quot;]/div[@class=&quot;DOjaWF gdgoEp col-12-12&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;_0BvurA&quot;]/div[@class=&quot;GSeM5C&quot;]/section[@class=&quot;Iu4qXa&quot;]</value>
+      <webElementGuid>6f5d3548-57ac-4af3-a272-427bae76d7b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div/div/div/div/div/section</value>
+      <webElementGuid>48767902-63f2-4785-b424-30a1ea695754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAMSUNG'])[1]/following::section[1]</value>
+      <webElementGuid>188ec070-cd40-47ea-9d58-34d0dc418269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/section</value>
+      <webElementGuid>eb73143f-e8f9-4a6a-b7b0-4179012e4282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'CATEGORIESComputersComputer ComponentsMonitors' or . = 'CATEGORIESComputersComputer ComponentsMonitors')]</value>
+      <webElementGuid>b93231e3-7d12-4874-927a-47757f377dde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

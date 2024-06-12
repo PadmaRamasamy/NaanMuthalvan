@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Docs</name>
+   <tag></tag>
+   <elementGuidId>b540b21b-c44b-44a2-8fad-41d55225c2cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='documentation']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#documentation > ul.subnav.menu > li.tier-2.element-1 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main Navigation&quot;i >> internal:text=&quot;Docs&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>508fe7ae-1cd4-4d1c-9c57-d0f1a59c976d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/doc/</value>
+      <webElementGuid>ff4a2e7c-ae4a-4740-99b6-e44ed459f316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Docs</value>
+      <webElementGuid>7af96afc-163d-4aa4-b04c-45b3de18aca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;documentation&quot;)/ul[@class=&quot;subnav menu&quot;]/li[@class=&quot;tier-2 element-1&quot;]/a[1]</value>
+      <webElementGuid>593fe70b-1d54-4227-be37-5ebd5be2a4b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='documentation']/ul/li/a</value>
+      <webElementGuid>a2e494f9-4740-4ed2-8e57-c6fcea8d2e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Docs')])[2]</value>
+      <webElementGuid>c431ead3-ffc7-4784-96b6-735774ace235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::a[1]</value>
+      <webElementGuid>90b1b0d6-d683-4d66-8078-98ed9ae6951d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View the full list of downloads'])[4]/following::a[2]</value>
+      <webElementGuid>7dec1d8e-e5d0-49bd-8576-95217f739aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio/Visual Talks'])[1]/preceding::a[1]</value>
+      <webElementGuid>7d657012-a9b1-4dbb-a11c-8d1b1f065c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/doc/')])[2]</value>
+      <webElementGuid>299b5ec0-a244-44f7-bdd0-6e449cd71a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>7cce6fdb-f711-4d67-9327-992923118957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/doc/' and (text() = 'Docs' or . = 'Docs')]</value>
+      <webElementGuid>cadd250e-de0b-4963-9630-d24cb07e69b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
